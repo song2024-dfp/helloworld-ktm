@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello World！第一个由 AI 开发的 Node.js 网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "KT 猫",
+  "license": "MIT"
+}
